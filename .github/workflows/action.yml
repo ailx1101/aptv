@@ -1,9 +1,7 @@
-name: action test
+name: 更新IPTV并推送
 run-name: 更新IPTV并推送
 on:
-  workflow_dispatch:
-  schedule:
-  - cron: '0 16 * * *'
+  [push]
 
 env:
   TZ: Asia/Shanghai
