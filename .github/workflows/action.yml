@@ -23,7 +23,6 @@ jobs:
         run: |
           python3 -m pip install --upgrade pip
           pip3 install -r ./requirements.txt
-          mkdir m3u
       - name: Running
         run: python3 ./iptv.py
       - name: Commit
