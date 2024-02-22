@@ -3,7 +3,7 @@ run-name: 更新IPTV并推送
 on:
   workflow_dispatch:
   schedule:
-  - cron: '50 11 * * *'
+  - cron: '56 19 * * *'
 env:
   TZ: Asia/Shanghai
 jobs:
