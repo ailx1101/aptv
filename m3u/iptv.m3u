@@ -1,12 +1,16 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
+ http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
  https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
+ http://1.83.163.43:8888/rtp/239.112.205.59:5140
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
  http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- http://123.14.89.74:8888/hls/1/index.m3u8
+ http://59.55.66.151:6005/udp/239.252.219.200:5140
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV1HD.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
@@ -16,35 +20,33 @@
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
  http://php.jdshipin.com:8880/bst.php?id=cctv1hd/4000000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- https://live-play-shanghai.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+ http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
+ http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573003.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
+ http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
+ http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
  http://php.jdshipin.com:8880/bst.php?id=cctv10hd/4000000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
  http://php.jdshipin.com:8880/bst.php?id=cctv11hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- https://live-play-shanghai.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV10HD.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV12HD.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV14HD.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- http://125.125.197.72:8888/rtp/233.50.201.246:5140
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1
- http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV16HD.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="自用源",CCTV2
  https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="自用源",CCTV2
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="自用源",CCTV2
  http://120.7.86.85:808/hls/2/index.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="自用源",CCTV2
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV2HD.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="自用源",CCTV2
  http://211.142.218.74:9901/iptv/movie/cctv2.mp4?key=txiptv
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="自用源",CCTV2
@@ -60,9 +62,11 @@
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="自用源",CCTV2
  http://125.210.152.19:9123/live/hzgq-cctv2gq-h264.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="自用源",CCTV3
- http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="自用源",CCTV3
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="自用源",CCTV3
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV3HD.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="自用源",CCTV3
+ http://183.237.246.14:9931/tsfile/live/1022_1.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="自用源",CCTV3
  http://112.6.117.141:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="自用源",CCTV3
@@ -78,6 +82,10 @@
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="自用源",CCTV4
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="自用源",CCTV4
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4HD.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="自用源",CCTV4
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV4K.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="自用源",CCTV4
  http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="自用源",CCTV4
  http://159.75.85.63:5679/cctv4k.php
@@ -90,19 +98,23 @@
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
  https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
- http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576403.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV5HD.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
+ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
  http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
  https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV5pHD.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
  http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
- http://222.244.147.16:9901/tsfile/live/0005_1.m3u8?key=txiptv
+ http://220.180.229.250:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
  http://iptv123.msns.cn:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5
@@ -116,7 +128,11 @@
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6
  https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6
+ http://121.23.184.27:808/hls/6/index.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574301.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV6HD.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6
  http://do.dsp.mp.mi4.xyz:8888/udp/239.76.246.156:1234
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6
@@ -128,15 +144,13 @@
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6
  http://221.1.210.106:8053/tsfile/live/0006_1.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6
- http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv68m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6
  http://110.52.99.109:9901/tsfile/live/faacts/1005_1.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6
  http://php.jdshipin.com:8880/bst.php?id=cctv6hd/4000000
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="自用源",CCTV7
- http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="自用源",CCTV7
  http://php.jdshipin.com:8880/bst.php?id=cctv7hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="自用源",CCTV7
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV7HD.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="自用源",CCTV7
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576203.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="自用源",CCTV7
@@ -146,11 +160,13 @@
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="自用源",CCTV7
  http://219.135.208.218:8083/tsfile/live/0007_1.m3u8
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="自用源",CCTV8
- http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576103.m3u8
+ https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="自用源",CCTV8
  http://php.jdshipin.com:8880/bst.php?id=cctv8hd/4000000
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="自用源",CCTV8
- https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+ http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576103.m3u8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="自用源",CCTV8
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV8HD.m3u8
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="自用源",CCTV8
  http://221.210.64.165:2233/hls/15/index.m3u8
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="自用源",CCTV8
@@ -160,6 +176,8 @@
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="自用源",CCTV9
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576003.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="自用源",CCTV9
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV9HD.m3u8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="自用源",CCTV9
  http://php.jdshipin.com:8880/bst.php?id=cctv9hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="自用源",CCTV9
  http://221.210.64.165:2233/hls/16/index.m3u8
@@ -168,13 +186,15 @@
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="自用源",CCTV9
  http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="自用源",CCTV10
+ http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573003.m3u8
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="自用源",CCTV10
  http://php.jdshipin.com:8880/bst.php?id=cctv10hd/4000000
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="自用源",CCTV10
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV10HD.m3u8
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="自用源",CCTV10
  http://221.210.64.165:2233/hls/17/index.m3u8
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="自用源",CCTV10
  http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="自用源",CCTV10
- http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022573003.m3u8
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="自用源",CCTV10
  http://125.210.152.19:9123/live/hzgq-cctv10gq-h264.m3u8
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="自用源",CCTV10
@@ -182,11 +202,15 @@
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.eu.org/logo/CCTV11.png" group-title="自用源",CCTV11
  http://php.jdshipin.com:8880/bst.php?id=cctv11hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.eu.org/logo/CCTV11.png" group-title="自用源",CCTV11
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV11.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.eu.org/logo/CCTV11.png" group-title="自用源",CCTV11
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575903.m3u8
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.eu.org/logo/CCTV11.png" group-title="自用源",CCTV11
  https://epg.pw/stream/6ba4b8f02bff74ce5171e23abaeba2663203fa82ab49744698d429566f706afe.m3u8
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.eu.org/logo/CCTV11.png" group-title="自用源",CCTV11
  http://125.210.152.19:9123/live/hzgq-cctv11gq-h264.m3u8
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="自用源",CCTV12
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV12HD.m3u8
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="自用源",CCTV12
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575803.m3u8
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="自用源",CCTV12
@@ -196,33 +220,29 @@
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="自用源",CCTV12
  https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
- https://live-play-shanghai.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
- https://live-play-shanghai.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575703.m3u8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV13.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
  http://125.125.197.72:8888/rtp/233.50.201.246:5140
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
- https://live-play-shanghai.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+ http://123.168.95.193:4000/udp/239.21.2.3:5002
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
  http://182.46.8.252:8686/udp/239.21.2.3:5002
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
- https://live-play-shanghai.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
  http://120.224.178.16:9901/tsfile/live/0013_1.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
  http://123.138.216.44:9902/tsfile/live/0013_1.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
- https://live-play-rts.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
- http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+ http://120.7.86.15:808/hls/13/index.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
  http://php.jdshipin.com:8880/bst.php?id=cctv13
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
  http://125.210.152.19:9123/live/hzgq-cctvnewsgq-h264.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="自用源",CCTV13
  http://115.171.216.22:4000/udp/225.1.1.10:8128
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.eu.org/logo/CCTV14.png" group-title="自用源",CCTV14
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV14HD.m3u8
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.eu.org/logo/CCTV14.png" group-title="自用源",CCTV14
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575603.m3u8
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.eu.org/logo/CCTV14.png" group-title="自用源",CCTV14
@@ -234,15 +254,23 @@
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png" group-title="自用源",CCTV15
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575503.m3u8
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png" group-title="自用源",CCTV15
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV15.m3u8
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png" group-title="自用源",CCTV15
  http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png" group-title="自用源",CCTV15
  http://php.jdshipin.com:8880/bst.php?id=cctv15hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png" group-title="自用源",CCTV15
  http://125.210.152.19:9123/live/hzgq-cctvmusicgq-h264.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="自用源",CCTV16
+ http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="自用源",CCTV16
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV16HD.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="自用源",CCTV16
  http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="自用源",CCTV16
- http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
+ http://60.163.20.122:8888/rtp/233.50.201.63:5140
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="自用源",CCTV16
+ http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="自用源",CCTV16
  http://php.jdshipin.com:8880/bst.php?id=cctv16hd8m/8000000
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="自用源",CCTV16
@@ -251,6 +279,10 @@
  http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="自用源",CCTV16
  http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="自用源",CCTV16
+ http://hrare.gnway.cc/tv/ysp.php?id=cctv16
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV17.png" group-title="自用源",CCTV17
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV17HD.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV17.png" group-title="自用源",CCTV17
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV17.png" group-title="自用源",CCTV17
@@ -261,6 +293,8 @@
  http://125.210.152.19:9123/live/hzgq-cctv17gq-h264.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV17.png" group-title="自用源",CCTV17
  http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV17.png" group-title="自用源",CCTV17
+ http://hrare.gnway.cc/tv/ysp.php?id=cctv17
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png" group-title="自用源",山东卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png" group-title="自用源",山东卫视
@@ -290,9 +324,9 @@
 #EXTINF:-1,tvg-id="山东影视" tvg-name="山东影视" tvg-logo="https://epg.112114.eu.org/logo/山东影视.png" group-title="自用源",山东影视
  http://111.14.181.15:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.eu.org/logo/山东体育.png" group-title="自用源",山东体育
- http://144.255.40.102:4022/udp/239.21.1.141:5002
+ http://123.168.95.193:4000/udp/239.21.1.141:5002
 #EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.eu.org/logo/山东体育.png" group-title="自用源",山东体育
- http://113.120.46.233:8123/udp/239.21.1.141:5002
+ http://144.255.40.102:4022/udp/239.21.1.141:5002
 #EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.eu.org/logo/山东体育.png" group-title="自用源",山东体育
  http://api2.52tb.xyz/info?id=523&token=20230218htjgzi
 #EXTINF:-1,tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://epg.112114.eu.org/logo/山东农科.png" group-title="自用源",山东农科
@@ -302,6 +336,8 @@
 #EXTINF:-1,tvg-id="山东生活" tvg-name="山东生活" tvg-logo="https://epg.112114.eu.org/logo/山东生活.png" group-title="自用源",山东生活
  http://api2.52tb.xyz/info?id=527&token=20230218htjgzi
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png" group-title="自用源",河北卫视
+ http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png" group-title="自用源",河北卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png" group-title="自用源",河北卫视
  http://php.jdshipin.com:8880/bst.php?id=hbwshd8m/8000000
@@ -310,6 +346,8 @@
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png" group-title="自用源",河北卫视
  http://125.210.152.19:9123/live/hzgq-hbwsgq1-h264.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.eu.org/logo/河南卫视.png" group-title="自用源",河南卫视
+ http://123.149.136.46:4022/rtp/239.16.20.21:10210
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.eu.org/logo/河南卫视.png" group-title="自用源",河南卫视
  http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.eu.org/logo/河南卫视.png" group-title="自用源",河南卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
@@ -317,8 +355,6 @@
  http://125.210.152.19:9123/live/hzgq-henanwsgq-h264.m3u8
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.eu.org/logo/吉林卫视.png" group-title="自用源",吉林卫视
  http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.eu.org/logo/吉林卫视.png" group-title="自用源",吉林卫视
- http://106.46.118.145:808/hls/51/index.m3u8
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.eu.org/logo/吉林卫视.png" group-title="自用源",吉林卫视
  http://php.jdshipin.com:8880/bst.php?id=jlwshd8m/8000000
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.eu.org/logo/吉林卫视.png" group-title="自用源",吉林卫视
@@ -344,6 +380,10 @@
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="自用源",黑龙江卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="自用源",黑龙江卫视
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_hljwsHD.m3u8
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="自用源",黑龙江卫视
+ https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="自用源",黑龙江卫视
  http://php.jdshipin.com:8880/bst.php?id=hljwshd/4000000
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="自用源",黑龙江卫视
  http://php.jdshipin.com:8880/bst.php?id=hljwshd8m/8000000
@@ -360,11 +400,7 @@
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视.png" group-title="自用源",江苏卫视
  http://php.jdshipin.com:8880/bst.php?id=jswshd/4000000
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视.png" group-title="自用源",江苏卫视
- http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视.png" group-title="自用源",江苏卫视
  http://125.210.152.19:9123/live/hzgq-jswsgq-h264.m3u8
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="自用源",浙江卫视
- http://60.189.53.170:4000/rtp/233.50.201.100:5140
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="自用源",浙江卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png" group-title="自用源",浙江卫视
@@ -398,11 +434,9 @@
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.eu.org/logo/湖北卫视.png" group-title="自用源",湖北卫视
  http://125.210.152.19:9123/live/hzgq-hbwsgq-h264.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="自用源",湖南卫视
- http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+ http://iptv123.msns.cn:9901/tsfile/live/0128_1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="自用源",湖南卫视
  http://120.7.86.41:808/hls/18/index.m3u8
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="自用源",湖南卫视
- http://iptv123.msns.cn:9901/tsfile/live/0128_1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="自用源",湖南卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png" group-title="自用源",湖南卫视
@@ -442,6 +476,8 @@
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png" group-title="自用源",云南卫视
  http://113.57.109.36:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="自用源",贵州卫视
+ http://220.173.26.219:5678/udp/239.81.0.95:4056
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="自用源",贵州卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="自用源",贵州卫视
  http://php.jdshipin.com:8880/bst.php?id=gzwshd8m/8000000
@@ -449,8 +485,6 @@
  http://125.210.152.19:9123/live/hszx-gztv-h264.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png" group-title="自用源",贵州卫视
  http://110.53.191.212:9901/tsfile/live/0120_1.m3u8
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.eu.org/logo/重庆卫视.png" group-title="自用源",重庆卫视
- http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.eu.org/logo/重庆卫视.png" group-title="自用源",重庆卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.eu.org/logo/重庆卫视.png" group-title="自用源",重庆卫视
@@ -460,9 +494,9 @@
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.eu.org/logo/山西卫视.png" group-title="自用源",山西卫视
  http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.eu.org/logo/山西卫视.png" group-title="自用源",山西卫视
- http://111.197.132.156:1314/rtp/239.3.1.42:8172
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.eu.org/logo/山西卫视.png" group-title="自用源",山西卫视
  http://live.cooltv.top/tv/tide.php?id=sxiws2
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.eu.org/logo/山西卫视.png" group-title="自用源",山西卫视
+ http://111.197.132.156:1314/rtp/239.3.1.42:8172
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.eu.org/logo/山西卫视.png" group-title="自用源",山西卫视
  http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.eu.org/logo/山西卫视.png" group-title="自用源",山西卫视
@@ -507,6 +541,8 @@
  http://125.210.152.19:9123/live/hszx-nmgtv-h264.m3u8
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.eu.org/logo/内蒙古卫视.png" group-title="自用源",内蒙古卫视
  http://60.12.183.46:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.eu.org/logo/内蒙古卫视.png" group-title="自用源",内蒙古卫视
+ http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/nmgws/1300000/mnf.m3u8
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.eu.org/logo/青海卫视.png" group-title="自用源",青海卫视
  http://php.jdshipin.com:8880/bst.php?id=qhws/1300000
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.eu.org/logo/青海卫视.png" group-title="自用源",青海卫视
@@ -526,15 +562,27 @@
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.eu.org/logo/西藏卫视.png" group-title="自用源",西藏卫视
  http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xzws/2500000/mnf.m3u8
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="自用源",广东卫视
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_gdwsHD.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="自用源",广东卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="自用源",广东卫视
  http://221.219.77.170:4000/rtp/239.3.1.142:8048
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="自用源",广东卫视
- http://php.jdshipin.com:8880/bst.php?id=gdwshd/4000000
+ http://61.140.232.147:4000/udp/239.77.1.19:5146
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="自用源",广东卫视
- http://14.29.76.30:9901/tsfile/live/0125_1.m3u8
+ http://119.135.87.110:8460/udp/239.77.1.19:5146
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="自用源",广东卫视
+ http://61.140.232.147:4000/udp/239.77.1.152:5146
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="自用源",广东卫视
+ http://61.140.232.147:4000/udp/239.77.0.166:5146
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png" group-title="自用源",广东卫视
+ http://php.jdshipin.com:8880/bst.php?id=gdwshd/4000000
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="自用源",广西卫视
+ http://222.217.124.147:8088/udp/239.81.0.107:4056
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="自用源",广西卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="自用源",广西卫视
+ http://220.173.26.219:5678/udp/239.81.0.107:4056
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="自用源",广西卫视
  http://php.jdshipin.com:8880/bst.php?id=gxwshd8m/8000000
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png" group-title="自用源",广西卫视
@@ -554,11 +602,11 @@
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.eu.org/logo/深圳卫视.png" group-title="自用源",深圳卫视
  https://epg.pw/stream/f71ce2c8d3869cd398598fccaa3ae45c79fc432743b033a33f58b7b2abd51c41.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="自用源",东方卫视
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_dfwsHD.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="自用源",东方卫视
  http://101.83.40.55:4022/udp/239.45.3.146:5140
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="自用源",东方卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="自用源",东方卫视
- http://106.46.118.145:808/hls/32/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="自用源",东方卫视
  http://220.163.178.144:8888/tsfile/live/0135_2.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="自用源",东方卫视
@@ -566,13 +614,13 @@
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png" group-title="自用源",东方卫视
  http://125.210.152.19:9123/live/hzgq-dftvgq-h264.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="自用源",北京卫视
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_bjwsHD.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="自用源",北京卫视
  http://61.182.33.218:8000/hls/19/index.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="自用源",北京卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="自用源",北京卫视
  http://61.138.128.226:19901/tsfile/live/0122_1.m3u8
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="自用源",北京卫视
- http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="自用源",北京卫视
  http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="自用源",北京卫视
@@ -583,6 +631,8 @@
  http://php.jdshipin.com:8880/bst.php?id=bjwshd/4000000
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png" group-title="自用源",北京卫视
  http://125.210.152.19:9123/live/hzgq-bjgqws-h264.m3u8
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.eu.org/logo/天津卫视.png" group-title="自用源",天津卫视
+ https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_tjwsHD.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.eu.org/logo/天津卫视.png" group-title="自用源",天津卫视
  http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2019927003.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.eu.org/logo/天津卫视.png" group-title="自用源",天津卫视
