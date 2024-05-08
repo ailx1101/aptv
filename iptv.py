@@ -82,7 +82,7 @@ def format_title_url():
             # 拼接字符串
             m3u += f'''#EXTINF:-1,tvg-id="{key}" tvg-name="{key}" tvg-logo="https://epg.112114.eu.org/logo/{key}.png" group-title="自用源",{key}\n{url}\n'''
         m3u_bytes = m3u.encode('utf-8')
-        with open('m3u/iptv.m3u', 'wb') as f:
+        with open('./m3u/iptv.m3u', 'wb') as f:
             f.write(m3u_bytes)
     print('文件写入成功')
 
