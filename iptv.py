@@ -43,7 +43,7 @@ def jiexi_html(group_addr):
     # 获取当前时间
     current_time = datetime.now()
     timeout_cnt = 0
-    url = engine_url + "?page=1&s=" + group_addr
+    url = engine_url + "?page=1&ch=" + group_addr
     headers = {
         "User-Agent": 'Apifox/1.0.0 (https://apifox.com)',
         'Cookie': "_ga=GA1.1.1704509184.1707655763; HstCfa4835429=1707655763698; HstCmu4835429=1707655763698; HstCnv4835429=2; REFERER=7640374; HstCns4835429=4; ckip1=123.10.78.63%7C119.123.216.197%7C183.1.249.4%7C121.24.98.119%7C123.187.59.90%7C101.75.215.122%7C123.52.86.251%7C42.225.147.168; ckip2=183.133.106.81%7C123.118.48.158%7C183.185.65.222%7C183.185.12.166%7C61.240.56.100%7C171.116.114.212%7C222.129.32.251%7C60.223.72.251; HstCla4835429=1707697762750; HstPn4835429=14; HstPt4835429=15; _ga_8KY4MGK2FJ=GS1.1.1707695177.2.1.1707697765.0.0.0"
