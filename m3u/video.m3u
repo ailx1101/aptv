@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.eu.org/logo/山东体育.png" group-title="自用源",山东体育
+http://144.52.199.178:8888/udp/239.21.1.58:5002
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.eu.org/logo/山东体育.png" group-title="自用源",山东体育
+http://144.52.199.178:8888/udp/239.21.1.141:5002
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png" group-title="自用源",山东卫视
+http://144.52.199.178:8888/udp/239.21.1.52:5002
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png" group-title="自用源",山东卫视
+http://144.52.199.178:8888/udp/239.21.1.87:5002
+#EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://epg.112114.eu.org/logo/山东文旅.png" group-title="自用源",山东文旅
+http://144.52.199.178:8888/udp/239.21.1.57:5002
+#EXTINF:-1,tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://epg.112114.eu.org/logo/山东文旅.png" group-title="自用源",山东文旅
+http://144.52.199.178:8888/udp/239.21.1.176:5002
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://epg.112114.eu.org/logo/山东新闻.png" group-title="自用源",山东新闻
+http://144.52.199.178:8888/udp/239.21.1.54:5002
+#EXTINF:-1,tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://epg.112114.eu.org/logo/山东新闻.png" group-title="自用源",山东新闻
+http://144.52.199.178:8888/udp/239.21.1.140:5002
+#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://epg.112114.eu.org/logo/山东综艺.png" group-title="自用源",山东综艺
+http://144.52.199.178:8888/udp/239.21.1.55:5002
+#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://epg.112114.eu.org/logo/山东综艺.png" group-title="自用源",山东综艺
+http://144.52.199.178:8888/udp/239.21.1.177:5002
+#EXTINF:-1,tvg-id="CCTV1HD" tvg-name="CCTV1HD" tvg-logo="https://epg.112114.eu.org/logo/CCTV1.png" group-title="自用源",CCTV1HD
+http://144.52.199.178:8888/udp/239.21.1.120:5002
+#EXTINF:-1,tvg-id="CCTV2HD" tvg-name="CCTV2HD" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="自用源",CCTV2HD
+http://144.52.199.178:8888/udp/239.21.1.151:5002
+#EXTINF:-1,tvg-id="CCTV3HD" tvg-name="CCTV3HD" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="自用源",CCTV3HD
+http://144.52.199.178:8888/udp/239.21.2.45:5002
+#EXTINF:-1,tvg-id="CCTV4HD" tvg-name="CCTV4HD" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="自用源",CCTV4HD
+http://144.52.199.178:8888/udp/239.21.1.154:5002
+#EXTINF:-1,tvg-id="CCTV5HD" tvg-name="CCTV5HD" tvg-logo="https://epg.112114.eu.org/logo/CCTV5.png" group-title="自用源",CCTV5HD
+http://144.52.199.178:8888/udp/239.21.2.46:5002
+#EXTINF:-1,tvg-id="CCTV5+HD" tvg-name="CCTV5+HD" tvg-logo="https://epg.112114.eu.org/logo/CCTV5+.png" group-title="自用源",CCTV5+HD
+http://144.52.199.178:8888/udp/239.21.1.142:5002
+#EXTINF:-1,tvg-id="CCTV6HD" tvg-name="CCTV6HD" tvg-logo="https://epg.112114.eu.org/logo/CCTV6.png" group-title="自用源",CCTV6HD
+http://144.52.199.178:8888/udp/239.21.2.47:5002
+#EXTINF:-1,tvg-id="CCTV7HD" tvg-name="CCTV7HD" tvg-logo="https://epg.112114.eu.org/logo/CCTV7.png" group-title="自用源",CCTV7HD
+http://144.52.199.178:8888/udp/239.21.1.152:5002
+#EXTINF:-1,tvg-id="CCTV8HD" tvg-name="CCTV8HD" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="自用源",CCTV8HD
+http://144.52.199.178:8888/udp/239.21.2.48:5002
