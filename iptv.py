@@ -23,7 +23,7 @@ groups = ['CCTV1', "CCTV2", "CCTV3", "CCTV4", "CCTV5",
           "江西卫视", "湖北卫视", "湖南卫视", "东南卫视", "安徽卫视", "云南卫视", "贵州卫视",
           "重庆卫视", "山西卫视", "陕西卫视", "甘肃卫视", "宁夏卫视", "新疆卫视", "内蒙古卫视","青海卫视",
           "西藏卫视", "广东卫视", "广西卫视", "深圳卫视", "东方卫视", "北京卫视", "天津卫视", "海南卫视"]
-
+# groups = ['CCTV1']
 # 爬取CCTV频道资源
 def spider_source():
     start_time = time.time()
@@ -45,7 +45,7 @@ def jiexi_html(group_addr):
     timeout_cnt = 0
     url = engine_url + "?page=1&ch=" + group_addr
     headers = {
-        "User-Agent": 'Apifox/1.0.0 (https://apifox.com)',
+        "User-Agent": 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
         'Cookie': "_ga=GA1.1.1704509184.1707655763; HstCfa4835429=1707655763698; HstCmu4835429=1707655763698; HstCnv4835429=2; REFERER=7640374; HstCns4835429=4; ckip1=123.10.78.63%7C119.123.216.197%7C183.1.249.4%7C121.24.98.119%7C123.187.59.90%7C101.75.215.122%7C123.52.86.251%7C42.225.147.168; ckip2=183.133.106.81%7C123.118.48.158%7C183.185.65.222%7C183.185.12.166%7C61.240.56.100%7C171.116.114.212%7C222.129.32.251%7C60.223.72.251; HstCla4835429=1707697762750; HstPn4835429=14; HstPt4835429=15; _ga_8KY4MGK2FJ=GS1.1.1707695177.2.1.1707697765.0.0.0"
     }
     # 发起HTTP请求获取网页内容
@@ -57,7 +57,7 @@ def jiexi_html(group_addr):
         html_content = response.text
         iptv_html = etree.HTML(html_content)
         # result_titles = iptv_html.xpath('//*[@style="float: left;"]//text()')
-        result_urls = iptv_html.xpath('//*[@style="padding-left: 6px;"]//text()')
+        result_urls = iptv_html.xpath('//*[@class="resultplus"]/div[2]/*[1]/*[2]/text()')
         print(f"{current_time} 搜索频道直播源：{url}")
 
         # 初始化列表数据
